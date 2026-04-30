@@ -71,7 +71,7 @@ backend/
 ### 1. Clone the repository
 
 ```
-git clone [https://github.com/YOUR_USERNAME/emotion-detection-app.git](https://github.com/Sneha28-p/emotion-detection)
+git clone https://github.com/Sneha28-p/emotion-detection/tree/main
 cd emotion-detection-app
 ```
 
